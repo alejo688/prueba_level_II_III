@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">prueba_level_1</string>
+    <string name="item_no_disponible">"La vista de la opción %s no esta disponible"</string>
+    <string name="url_top_album">http://ws.audioscrobbler.com/2.0/?method=geo.gettoptracks&amp;country=spain&amp;api_key=829751643419a7128b7ada50de590067&amp;format=json</string>
+    <string name="url_top_artista">http://ws.audioscrobbler.com/2.0/?method=geo.gettopartists&amp;country=spain&amp;api_key=829751643419a7128b7ada50de590067&amp;format=json</string>
+    <string name="sin_resultados">No se encontraron resultados</string>
+    <string name="titulo_top_artista">Top Artistas</string>
+    <string name="titulo_top_albumes">Top Álbumes</string>
+    <string name="SubItemTitle">Escuchado: </string>
+    <string name="TitleActivityMain">Prueba Trainer Level 1</string>
+    <string name="ArtistaTitle">Artista</string>
+    <string name="label_veces_escuchado">Veces escuchado:</string>
+    <string name="titleAlbum">Albúm</string>
+    <string-array name="menu_principal">
+        <item>Top Artistas</item>
+        <item>Top Álbumes</item>
+    </string-array>
+</resources>
